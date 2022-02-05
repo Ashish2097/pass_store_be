@@ -1,0 +1,22 @@
+[
+  {
+    "email": "ashishduklann@gmail.com",
+    "pass": [
+      {
+        "domain": "google.com",
+        "username": "Ashish_Duklan",
+        "password": "google password"
+      },
+      {
+        "domain": "google.com",
+        "username": "Mohit_Duklan",
+        "password": "google passcode"
+      },
+      {
+        "domain": "google.com",
+        "username": "Dell",
+        "password": "Dell Pass phrase"
+      }
+    ]
+  }
+]
